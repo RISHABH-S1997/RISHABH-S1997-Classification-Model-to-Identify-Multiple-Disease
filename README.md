@@ -1,1 +1,1 @@
-# RISHABH-S1997-Classification-Model-to-Identify-Multiple-Disease
+# Classification-Model-to-Identify-Multiple-Disease
